@@ -69,4 +69,4 @@ Double-click file html yang akan dibuka
 
 ## Referensi Self-Learning
 
-Untuk melihat html dan css yang sudah jadi (rapi) bisa membuka folder **[Contoh Website Rapi](https://github.com/afrizalmeka/AID-1-Web-Development/tree/main/Contoh%20Website%20Rapi)**
+Untuk melihat html dan css yang sudah jadi (rapi) bisa membuka folder **[Contoh Website Rapi](https://github.com/AI-ProgramOrbit/HandsOn/tree/main/Contoh%20Website%20Rapi)**
